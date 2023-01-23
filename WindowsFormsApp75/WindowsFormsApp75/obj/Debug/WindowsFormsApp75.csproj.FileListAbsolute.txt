@@ -1,0 +1,69 @@
+C:\Users\asus\source\repos\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe.config
+C:\Users\asus\source\repos\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe
+C:\Users\asus\source\repos\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.pdb
+C:\Users\asus\source\repos\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Form1.resources
+C:\Users\asus\source\repos\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Properties.Resources.resources
+C:\Users\asus\source\repos\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.exe
+C:\Users\asus\source\repos\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.pdb
+C:\Users\asus\source\repos\WindowsFormsApp75\bin\Debug\pa-Guru\WindowsFormsApp75.resources.dll
+C:\Users\asus\source\repos\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Form1.pa-Guru.resources
+C:\Users\asus\source\repos\WindowsFormsApp75\obj\Debug\pa-Guru\WindowsFormsApp75.resources.dll
+C:\Users\asus\source\repos\WindowsFormsApp75\bin\Debug\tr-TR\WindowsFormsApp75.resources.dll
+C:\Users\asus\source\repos\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Form1.tr-TR.resources
+C:\Users\asus\source\repos\WindowsFormsApp75\obj\Debug\tr-TR\WindowsFormsApp75.resources.dll
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe.config
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.pdb
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\bin\Debug\pa-Guru\WindowsFormsApp75.resources.dll
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\bin\Debug\tr-TR\WindowsFormsApp75.resources.dll
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Form1.resources
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Properties.Resources.resources
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Form1.pa-Guru.resources
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Form1.tr-TR.resources
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\obj\Debug\pa-Guru\WindowsFormsApp75.resources.dll
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\obj\Debug\tr-TR\WindowsFormsApp75.resources.dll
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.exe
+C:\Users\asus\Desktop\görsel örnekler\ödev\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.pdb
+C:\Users\NURULLAH\Desktop\Yeni klasör\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe.config
+C:\Users\NURULLAH\Desktop\Yeni klasör\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe
+C:\Users\NURULLAH\Desktop\Yeni klasör\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.pdb
+C:\Users\NURULLAH\Desktop\Yeni klasör\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csprojResolveAssemblyReference.cache
+C:\Users\NURULLAH\Desktop\Yeni klasör\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Form1.resources
+C:\Users\NURULLAH\Desktop\Yeni klasör\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Properties.Resources.resources
+C:\Users\NURULLAH\Desktop\Yeni klasör\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csproj.GenerateResource.Cache
+C:\Users\NURULLAH\Desktop\Yeni klasör\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csproj.CoreCompileInputs.cache
+C:\Users\NURULLAH\Desktop\Yeni klasör\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.exe
+C:\Users\NURULLAH\Desktop\Yeni klasör\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.pdb
+C:\Users\asus\Desktop\WindowsFormsApp75\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe.config
+C:\Users\asus\Desktop\WindowsFormsApp75\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe
+C:\Users\asus\Desktop\WindowsFormsApp75\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.pdb
+C:\Users\asus\Desktop\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Form1.resources
+C:\Users\asus\Desktop\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Properties.Resources.resources
+C:\Users\asus\Desktop\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.exe
+C:\Users\asus\Desktop\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.pdb
+C:\Users\asus\Desktop\170707063\Zehra_Karakaya_170707063\WindowsFormsApp75\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe.config
+C:\Users\asus\Desktop\170707063\Zehra_Karakaya_170707063\WindowsFormsApp75\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe
+C:\Users\asus\Desktop\170707063\Zehra_Karakaya_170707063\WindowsFormsApp75\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.pdb
+C:\Users\asus\Desktop\170707063\Zehra_Karakaya_170707063\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\170707063\Zehra_Karakaya_170707063\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Form1.resources
+C:\Users\asus\Desktop\170707063\Zehra_Karakaya_170707063\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Properties.Resources.resources
+C:\Users\asus\Desktop\170707063\Zehra_Karakaya_170707063\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\170707063\Zehra_Karakaya_170707063\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.exe
+C:\Users\asus\Desktop\170707063\Zehra_Karakaya_170707063\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.pdb
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_3\WindowsFormsApp75\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe.config
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_3\WindowsFormsApp75\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.exe
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_3\WindowsFormsApp75\WindowsFormsApp75\bin\Debug\WindowsFormsApp75.pdb
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_3\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_3\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Form1.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_3\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.Properties.Resources.resources
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_3\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_3\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_3\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.exe
+C:\Users\asus\Desktop\zehra\ders\ödevler\görsel ödevleri\170707063_3\WindowsFormsApp75\WindowsFormsApp75\obj\Debug\WindowsFormsApp75.pdb
